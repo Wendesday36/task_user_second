@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Kiscica</title>
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -55,7 +55,8 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, ea? Doloremque iusto accusamus non blanditiis explicabo, magnam esse facilis eum. Corporis, laborum excepturi veniam saepe eaque voluptates nihil neque labore.
+                                   Porro animi ratione debitis libero nobis dignissimos ducimus amet voluptate similique magnam commodi iste excepturi at explicabo, laborum obcaecati nemo? Ullam, quibusdam? ! Laborum expedita amet saepe animi asperiores?
                                 </div>
                             </div>
                         </div>
